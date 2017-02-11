@@ -31,6 +31,9 @@
           //document.getElementById('quickstart-sign-in-status').textContent = 'Se connecter';
           document.getElementById('quickstart-sign-in').textContent = 'Se déconnecter';
 		  document.getElementById("autorized").className += " none";
+		  document.getElementById("avatar-image").src = photoURL;
+		  document.getElementById("display-name").innerHTML = displayName; 
+		  
          // document.getElementById('quickstart-account-details').textContent = JSON.stringify(user, null, '  ');
           // [END_EXCLUDE]
         } else {
