@@ -1,0 +1,148 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M751.255 396.129c0 238.635-335.468 591.93-335.468 591.93s-335.483-353.309-335.483-591.93 150.196-362.15 335.468-362.15c185.286-0 335.483 123.515 335.483 362.15z",
+          "M673.085 374.121c0 142.11-115.203 257.312-257.312 257.312s-257.312-115.203-257.312-257.312c0-142.11 115.203-257.312 257.312-257.312s257.312 115.203 257.312 257.312z",
+          "M500.952 632.024v0",
+          "M335.814 260.413c-51.099 0-92.521 41.422-92.521 92.521 0 0-8.985 104.001 173.417 178.565v0.029c0.014 0 0.029-0.014 0.043-0.014v-223.448c-15.807-28.412-46.123-47.652-80.939-47.652z",
+          "M496.885 260.413c51.099 0 92.521 41.422 92.521 92.521 0 0 8.985 104.001-173.417 178.565v0.029c-0.014 0-0.029-0.014-0.043-0.014v-223.448c15.807-28.412 46.123-47.652 80.939-47.652z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(231, 58, 67)"
+          },
+          {
+            "fill": "rgb(255, 255, 255)",
+            "stroke": "rgb(246, 187, 208)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 36.28998309859155
+          },
+          {
+            "fill": "rgb(255, 255, 255)",
+            "stroke": "rgb(246, 187, 208)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 36.28998309859155
+          },
+          {
+            "fill": "rgb(231, 58, 67)"
+          },
+          {
+            "fill": "rgb(231, 58, 67)"
+          }
+        ],
+        "width": 815,
+        "isMulticolor": true,
+        "isMulticolor2": false,
+        "grid": 32,
+        "tags": [
+          "picto_heart"
+        ],
+        "colorPermutations": {
+          "2315867124618720812552552551": [
+            {
+              "f": 0
+            },
+            {
+              "f": 2,
+              "s": 1
+            },
+            {
+              "f": 2,
+              "s": 1
+            },
+            {
+              "f": 0
+            },
+            {
+              "f": 0
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(231, 58, 67)"
+        },
+        {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(246, 187, 208)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 36.28998309859155
+        },
+        {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(246, 187, 208)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 36.28998309859155
+        },
+        {
+          "fill": "rgb(231, 58, 67)"
+        },
+        {
+          "fill": "rgb(231, 58, 67)"
+        }
+      ],
+      "properties": {
+        "order": 2,
+        "id": 0,
+        "name": "picto_heart",
+        "prevSize": 64,
+        "code": 59648,
+        "codes": [
+          59648,
+          59649,
+          59650,
+          59651,
+          59652
+        ]
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 100,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
